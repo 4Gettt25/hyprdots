@@ -83,3 +83,7 @@ else
     echo "WARNING: zsh is not installed..."
 fi
 
+# Sunity Cursors
+git clone https://github.com/alvatip/Sunity-cursors
+cd Sunity-cursors
+./install.sh
